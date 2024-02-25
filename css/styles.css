@@ -11,17 +11,19 @@ a {
 a:visited {
   color: green;
 }
-.nav-links {
+footer {
+  text-align: center;
+}
+footer a {
   color: green;
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 20px;
+  margin: 0 10px;
 }
 p {
   text-align: center;
 }
-img {
-  text-align: center;
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
   display: block;
-  margin: 0 auto;
+  margin: 30px auto;
 }
